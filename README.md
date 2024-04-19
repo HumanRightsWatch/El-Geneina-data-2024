@@ -6,7 +6,7 @@ Unable to conduct research in El Geneina, we relied on testimonies from survivor
 
 This archive contains the geospatial data produced by Human Rights Watch in the form of **shapefiles**.
 
-The archive is made available as a courtesy by Human Rights Watch solely for informational purposes to support your own personal or organizational non-commercial and internal research efforts. Your access to and use of the archive is subject to these [terms](https://www.hrw.org).
+The archive is made available as a courtesy by Human Rights Watch solely for informational purposes to support your own personal or organizational non-commercial and internal research efforts. Your access to and use of the archive is subject to these [terms](https://github.com/HumanRightsWatch/El-Geneina-data-2024/blob/main/TERMS.txt).
 
 ## 1. Fire damage assessment
 
