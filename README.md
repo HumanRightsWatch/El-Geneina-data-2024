@@ -1,6 +1,6 @@
 # El Geneina Investigation Geospatial Data
 
-As part of an investigation into the events that unfolded in El Geneina, West Darfur, Sudan in 2023, Human Rights Watch is publishing data that helped inform the [report](https://www.hrw.org).
+As part of an investigation into the events that unfolded in El Geneina, West Darfur, Sudan in 2023, Human Rights Watch is publishing data that helped inform the [report](https://www.hrw.org/node/387989).
 
 Unable to conduct research in El Geneina, we relied on testimonies from survivors and witnesses displaced in Chad, Kenya, South Sudan, and Uganda, analyzed and verified more than 110 photographs and videos, analyzed satellite imagery and conducted a damage assessment of the city.
 
